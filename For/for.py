@@ -8,7 +8,7 @@ print('jetzt wurden alle Elemente ausgegeben')
 print('Ende')
 print(x[9])
 print(x[1])
-print(x[-1])
+print(x[-10])
 print(x[0])
 x[0] = -100 # uberschreibt
 print(x[0])
