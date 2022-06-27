@@ -6,12 +6,13 @@ for w in x: # geht die Liste vom ersten bis letzten Element durch
    print(w) # und gibt das defienierte w aus. w ist beliebig 
 print('jetzt wurden alle Elemente ausgegeben')
 print('Ende')
-print(x[9])
-print(x[1])
+print(x[19])
+print(x[10])
 print(x[-10])
 print(x[0])
 x[0] = -100 # uberschreibt
 print(x[0])
 # die Liste kann also auch aus unterschiedlichen Elemente bestehen
 x = x + [2,3,0] #haengt an
+print(x)
 print(x)
