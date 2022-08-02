@@ -1,4 +1,4 @@
-from concurrent import futures
+from concurrent.futures import futures
 import sys
 import time
 

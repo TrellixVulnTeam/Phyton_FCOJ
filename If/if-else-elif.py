@@ -1,4 +1,5 @@
 x = 200
+
 print('anfangs ist x = ',x)
 if x < 50: # wird ausgefuehrt wenn wahr true
     print("x ist kleiner 50")
